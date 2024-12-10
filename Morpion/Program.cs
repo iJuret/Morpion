@@ -14,23 +14,19 @@ namespace Morpion
             // A compléter 
         }
 
-        // Fonction permettant de changer
-        // dans le tableau qu'elle est le 
-        // joueur qui à jouer
-        // Bien vérifier que le joueur ne sort
-        // pas du tableau et que la position
-        // n'est pas déjà jouée
+        // Fonction permettant de changer dans le tableau quel est le  joueur qui a joué
+        // NB : Bien vérifier que le joueur ne sort pas du tableau et que la position n'est pas déjà jouée
         public static bool AJouer(int j, int k, int joueur)
         {
             // A compléter 
             return false;
         }
 
-        // Fonction permettant de vérifier
-        // si un joueur à gagner
+        // Fonction permettant de vérifier si un joueur a gagné
         public static bool Gagner(int l, int c, int joueur)
         {
             // A compléter 
+            
             return false;
         }
 
@@ -45,7 +41,7 @@ namespace Morpion
 	        int joueur = 1 ;   // 1 pour la premier joueur, 2 pour le second
 	        int l, c = 0;      // numéro de ligne et de colonne
             int j, k = 0;      // Parcourir le tableau en 2 dimensions
-            bool gagner = false; // Permet de vérifier si un joueur à gagné 
+            bool gagner = false; // Permet de vérifier si un joueur a gagné 
             bool bonnePosition = false; // Permet de vérifier si la position souhaité est disponible
 
 	        //--- initialisation de la grille ---

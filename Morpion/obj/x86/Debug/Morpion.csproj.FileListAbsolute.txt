@@ -49,3 +49,7 @@ D:\Cours (Prof)\Sio\Ap\Ap 2\élève\Morpion\Morpion\obj\x86\Debug\Morpion.csproj
 D:\Cours (Prof)\Sio\Ap\Ap 2\élève\Morpion\Morpion\obj\x86\Debug\Morpion.csproj.CoreCompileInputs.cache
 D:\Cours (Prof)\Sio\Ap\Ap 2\élève\Morpion\Morpion\obj\x86\Debug\Morpion.exe
 D:\Cours (Prof)\Sio\Ap\Ap 2\élève\Morpion\Morpion\obj\x86\Debug\Morpion.pdb
+D:\Atelier de professionnalisation\Ap 3 c# Jeux\Morpion\Morpion\Morpion\obj\x86\Debug\Morpion.csproj.AssemblyReference.cache
+D:\Atelier de professionnalisation\Ap 3 c# Jeux\Morpion\Morpion\Morpion\obj\x86\Debug\Morpion.csproj.CoreCompileInputs.cache
+D:\Atelier de professionnalisation\Ap 3 c# Jeux\Morpion\Morpion\Morpion\obj\x86\Debug\Morpion.exe
+D:\Atelier de professionnalisation\Ap 3 c# Jeux\Morpion\Morpion\Morpion\obj\x86\Debug\Morpion.pdb
